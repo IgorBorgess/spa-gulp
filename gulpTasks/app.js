@@ -38,7 +38,7 @@ function appIMG(cb){
 
 gulp.task('appHTML', appHTML)
 gulp.task('appCSS', appCSS)
-gulp.task('appJS', appHJS)
+gulp.task('appJS', appJS)
 gulp.task('appIMG', appIMG)
 
 
